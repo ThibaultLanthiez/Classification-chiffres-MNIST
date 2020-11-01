@@ -2,6 +2,6 @@
 
 # Classification des chiffres MNIST
 
-Voici le notebook : [Code](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot/blob/main/Projet_1_Classification_Odds_Football_leagues.ipynb)
+Voici le notebook : [Code](https://github.com/ThibaultLanthiez/Classification-chiffres-MNIST/blob/main/Projet_3_Classification_MNIST.ipynb)
 
 L'objectif était de tester le différents algorithmes de Machine Learning.
